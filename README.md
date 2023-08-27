@@ -50,7 +50,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-I would like to express our appreciation to the following resources:
+I would like to express my appreciation to the following resources:
 
 - The PyGame community for their support and documentation.
 - Online tutorials that contributed to the understanding of OOP concepts in game development.
